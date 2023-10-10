@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Swoz 😄
 
-I'm currently a university 🎓 student majoring in Computer Science 💻. I'm passionate about programming and currently learning Go :golang:.
+I'm currently a university 🎓 student majoring in Computer Science 💻. I'm passionate about programming and currently learning Golang.
 
 In my free time, I like to work on side projects :hammer: and contribute to open source :octocat:.
 
